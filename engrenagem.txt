@@ -1,0 +1,114 @@
+Criptografado: U2FsdGVkX19tPcbsdfxcftWaSv61Vtc9A04e+VL0ZEw= - 2023-06-07T15:38:50.604Z
+ - 2023-06-07T15:38:50.614Z
+Descriptografado: ioi - 2023-06-07T15:38:52.988Z
+ - 2023-06-07T15:38:52.998Z
+Descriptografado:  - 2023-06-07T15:39:07.707Z
+ - 2023-06-07T15:39:07.716Z
+Descriptografado:  - 2023-06-07T15:39:08.396Z
+ - 2023-06-07T15:39:08.406Z
+Descriptografado:  - 2023-06-07T15:39:08.547Z
+ - 2023-06-07T15:39:08.555Z
+Descriptografado:  - 2023-06-07T15:39:08.707Z
+ - 2023-06-07T15:39:08.714Z
+Descriptografado:  - 2023-06-07T15:39:08.835Z
+ - 2023-06-07T15:39:08.845Z
+Descriptografado:  - 2023-06-07T15:39:08.995Z
+ - 2023-06-07T15:39:09.006Z
+Criptografado: U2FsdGVkX1+FwH8ItXHGc5MLA/HxPoaSSP5wndL3Xtk= - 2023-06-07T15:44:14.967Z
+ - 2023-06-07T15:44:14.982Z
+Descriptografado:  - 2023-06-07T15:44:23.006Z
+ - 2023-06-07T15:44:23.016Z
+Descriptografado:  - 2023-06-07T15:44:26.902Z
+ - 2023-06-07T15:44:26.911Z
+Descriptografado:  - 2023-06-07T15:44:33.255Z
+ - 2023-06-07T15:44:33.264Z
+Descriptografado:  - 2023-06-07T15:44:33.958Z
+ - 2023-06-07T15:44:33.968Z
+Descriptografado:  - 2023-06-07T15:44:34.158Z
+ - 2023-06-07T15:44:34.167Z
+Criptografado: U2FsdGVkX198uBicW8Tsan9WA+p0bqUHomMApKCdPig= - 2023-06-07T15:48:24.767Z
+ - 2023-06-07T15:48:24.776Z
+Descriptografado:  - 2023-06-07T15:48:25.438Z
+ - 2023-06-07T15:48:25.444Z
+Descriptografado:  - 2023-06-07T15:48:25.910Z
+ - 2023-06-07T15:48:25.920Z
+Descriptografado:  - 2023-06-07T15:48:26.126Z
+ - 2023-06-07T15:48:26.139Z
+Descriptografado:  - 2023-06-07T15:48:26.301Z
+ - 2023-06-07T15:48:26.310Z
+Descriptografado:  - 2023-06-07T15:48:26.486Z
+ - 2023-06-07T15:48:26.501Z
+Descriptografado:  - 2023-06-07T15:48:26.630Z
+ - 2023-06-07T15:48:26.639Z
+Descriptografado:  - 2023-06-07T15:48:31.798Z
+ - 2023-06-07T15:48:31.808Z
+Descriptografado:  - 2023-06-07T15:48:32.757Z
+ - 2023-06-07T15:48:32.768Z
+Descriptografado:  - 2023-06-07T15:48:32.974Z
+ - 2023-06-07T15:48:32.982Z
+Descriptografado:  - 2023-06-07T15:48:37.078Z
+ - 2023-06-07T15:48:37.086Z
+Descriptografado:  - 2023-06-07T15:48:37.294Z
+ - 2023-06-07T15:48:37.302Z
+Descriptografado:  - 2023-06-07T15:48:37.486Z
+ - 2023-06-07T15:48:37.493Z
+Descriptografado:  - 2023-06-07T15:48:37.678Z
+ - 2023-06-07T15:48:37.684Z
+Descriptografado:  - 2023-06-07T15:48:37.830Z
+ - 2023-06-07T15:48:37.837Z
+Criptografado: U2FsdGVkX1+m9LexRNxT4c70Ws2PYLuGlLGdm+bYK1s= - 2023-06-07T15:54:41.808Z
+ - 2023-06-07T15:54:41.817Z
+Descriptografado: oi - 2023-06-07T15:54:42.328Z
+ - 2023-06-07T15:54:42.341Z
+Descriptografado: oi - 2023-06-07T15:54:47.079Z
+ - 2023-06-07T15:54:47.088Z
+Descriptografado: oi - 2023-06-07T15:54:47.495Z
+ - 2023-06-07T15:54:47.508Z
+Descriptografado: oi - 2023-06-07T15:54:47.663Z
+ - 2023-06-07T15:54:47.676Z
+Descriptografado: oi - 2023-06-07T15:54:47.823Z
+ - 2023-06-07T15:54:47.834Z
+Descriptografado: oi - 2023-06-07T15:54:47.951Z
+ - 2023-06-07T15:54:47.959Z
+Descriptografado: oi - 2023-06-07T15:54:48.087Z
+ - 2023-06-07T15:54:48.096Z
+Descriptografado:  - 2023-06-07T15:56:42.335Z
+ - 2023-06-07T15:56:42.345Z
+Descriptografado: oi - 2023-06-07T15:56:47.775Z
+ - 2023-06-07T15:56:47.784Z
+Criptografado: U2FsdGVkX1/iO/XwOQmYSRyRwNCkAFpc0ZxLk/Rx/LQAwfpGtCxEXU29VqIIqBWp - 2023-06-07T15:57:30.481Z
+ - 2023-06-07T15:57:30.494Z
+Descriptografado: Meu nome é israel - 2023-06-07T15:57:37.906Z
+ - 2023-06-07T15:57:37.916Z
+Descriptografado: Meu nome é israel - 2023-06-07T15:57:51.584Z
+ - 2023-06-07T15:57:51.592Z
+Descriptografado:  - 2023-06-07T15:59:29.834Z
+ - 2023-06-07T15:59:29.843Z
+Descriptografado: Meu nome é israel - 2023-06-07T15:59:35.363Z
+ - 2023-06-07T15:59:35.372Z
+Criptografado: U2FsdGVkX1/aPCU8UXng8Ewh5MhAkdOD8CU/hcaZ5JJ2lOPUwVZhGSyVJAlY04yD - 2023-06-07T17:30:03.923Z
+ - 2023-06-07T17:30:03.937Z
+Descriptografado: Oi meu nome é Harry - 2023-06-07T17:30:09.610Z
+ - 2023-06-07T17:30:09.923Z
+Descriptografado: Oi meu nome é Harry - 2023-06-07T17:30:16.489Z
+ - 2023-06-07T17:30:16.495Z
+Descriptografado: Oi meu nome é Harry - 2023-06-07T17:31:58.324Z
+ - 2023-06-07T17:31:58.332Z
+Criptografado: U2FsdGVkX18Km18xvEZrheHGOec7Gofmz8VcLeT7dhmCxTnk9/aWlejActyU0GKV - 2023-06-07T17:34:59.372Z
+ - 2023-06-07T17:34:59.383Z
+Descriptografado:  - 2023-06-07T17:35:09.153Z
+ - 2023-06-07T17:35:09.162Z
+Descriptografado: Olá este teste é do horário - 2023-06-07T17:35:14.298Z
+ - 2023-06-07T17:35:14.308Z
+Descriptografado: Olá este teste é do horário - 2023-06-07T17:36:42.499Z
+ - 07/06/2023 14:36:42
+Criptografado: U2FsdGVkX1+DwcWAWTkfLK7JRxKeO6ahVJdPzctUfWPRfe0Px80OkQaOtDfzLhhs8bjKAL/A6zzq9HNmP7JiQES3PffNFrHobOMPyjYhBDLQWl57HYGGuA9L+SMUhfwBKljIEmu9GzzzwoOyoPaakKcNuGFW947j6yuOkzBrVXkGat73LjRnvRsZU/lRWT24tTsZNeob5ph4xmQzA723L+M3n5cXU7zcTZHqDlcdYDxNePKPkL/1wHC4tm+Uo5i5BuKxGui1EDL5wiREkOt9MDVDNwFMeMpCnxSVPFpGc+3DdR04d0v2v/WkFd0jiex/QvCeGvsjtByFHPjZHxghsw== - 2023-06-07T17:38:57.097Z
+ - 07/06/2023 14:38:57
+Descriptografado: ++++++++++[>++++++++>+++++++++++>++++++++++++++++++++>++++++++++++++++>+++>++++++++++>++++++++++++>+++++++++++++++++>+++++++<<<<<<<<<-]>-.>--.>-----.>+.>++.<<<<--.>>>>>+.>---.<<.<<<++.+.--.>>>>.<.<<.>>>>>-.<<<.>>>>+++.<<+++++..-. - 2023-06-07T17:40:25.468Z
+ - 07/06/2023 14:40:25
+Criptografado: U2FsdGVkX19WIpeIVARexKr/J6uMGh8aT3YsAh+9iZc= - 2023-06-07T17:46:39.890Z
+ - 07/06/2023 14:46:39
+Descriptografado: Oi - 2023-06-07T17:47:03.651Z
+ - 07/06/2023 14:47:03
+Criptografado: U2FsdGVkX1/lPQju+dobETgDsWLbgyOShE7MF/gRaQ0= - 2023-06-07T17:50:22.116Z
+ - 07/06/2023 14:50:22
